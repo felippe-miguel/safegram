@@ -52,4 +52,15 @@ section#post-list article .actions img {
     margin-right: 10px;
 }
 
+section#post-list article footer p {
+    font-size: 13px;
+    margin-top: 2px;
+    line-height: 18px;
+}
+
+section#post-list article footer p span {
+    color: #7159c1;
+    display: block;
+}
+
 
